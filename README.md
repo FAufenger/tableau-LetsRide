@@ -15,7 +15,8 @@ This page investigates the age of riders
 
 <hr>
 
-### Unique bicycles on the move:   ![bikePage](./Images/bikePage.png)
+### Unique bicycles on the move:
+![bikePage](./Images/bikePage.png)
 
 
 <hr>
