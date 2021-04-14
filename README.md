@@ -1,18 +1,18 @@
 # tableau-LetsRide
 
-![Start mage of story (age)](./images/agePage.png)
+![Start mage of story (age)](./Images/agePage.png)
 
 
 
-![bikePage](./images/bikePage.png)
+![bikePage](./Images/bikePage.png)
 
 
 
-![covidPage](./images/covidPage.png)
+![covidPage](./Images/covidPage.png)
 
 
 
-![genderPage](./images/genderPage.png)
+![genderPage](./Images/genderPage.png)
 
 
-![mapPage](./images/mapPage.png)
+![mapPage](./Images/mapPage.png)
