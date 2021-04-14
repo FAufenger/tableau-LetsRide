@@ -8,14 +8,14 @@ An age old "phenomenon" found in data:
 
 
 Unique bicycles on the move: 
-  *  This page investigates unique bicycles.
+  *  This page investigates unique bicycles
       * The average trip duration across all bikes is 15.9 minutes however some bikes have been ridden for thousands of hours!
       		One bike in particular was check out for over 300 hours.
       * User type has minimal impact on unique bike usage.
       * If a bike has been check out for less than 100 minutes, it is highly likely to have another bike with the same amount of time used.
 
 
-Location Location Location:.
+Location Location Location:
   *  This page investigates starting and stopping stations with usage.
       * 9 of the top 10 starting stations are also the top ending stations.
       * The map helps visualize which stations are used most.
