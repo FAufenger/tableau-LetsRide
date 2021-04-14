@@ -1,6 +1,6 @@
 # tableau-LetsRide
 
-Review of 2019-2020 cityBike rentals in Jersey CIty
+Review of 2019-2020 cityBike rentals in Jersey City visualized through the use of Tableau
 
 
 ### An age old "phenomenon" found in data:
