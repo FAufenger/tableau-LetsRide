@@ -4,7 +4,6 @@ Review of 2019-2020 cityBike rentals in Jersey CIty
 
 
 ### An age old "phenomenon" found in data:
-
 ![Start page of story (age)](./Images/agePage.png)
 
 This page investigates the age of riders
@@ -20,16 +19,17 @@ This page investigates the age of riders
 
 
 <hr>
-Location Location Location:
+
+### Location Location Location: 
 ![mapPage](./Images/mapPage.png)
 
 <hr>
 
-Total rentals vs areas total covid count:
+### Total rentals vs areas total covid count:
 ![covidPage](./Images/covidPage.png)
 
 
 <hr>
 
-Gender and City-Bikes:
+### Gender and City-Bikes:
 ![genderPage](./Images/genderPage.png)
