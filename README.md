@@ -17,19 +17,38 @@ This page investigates the age of riders
 ### Unique bicycles on the move:
 ![bikePage](./Images/bikePage.png)
 
-
+This page investigates unique bicycles.
+  * The average trip duration across all bikes is 15.9 minutes however some bikes have been ridden for thousands of hours!
+  		One bike in particular was check out for over 300 hours.
+  * User type has minimal impact on unique bike usage.
+  * If a bike has been check out for less than 100 minutes, it is highly likely to have another bike with the same amount of time used.
+      
 <hr>
 
 ### Location Location Location: 
 ![mapPage](./Images/mapPage.png)
+
+This page investigates starting and stopping stations with usage.
+  * 9 of the top 10 starting stations are also the top ending stations.
+  * The map helps visualize which stations are used most.
 
 <hr>
 
 ### Total rentals vs areas total covid count:
 ![covidPage](./Images/covidPage.png)
 
+This page investigates monthly rental count and time.
+  * Summer months are more active for bike renters both in total ride time and total rentals.
+  * During the covid outbreak the total number of rentals decreased slightly while the duration of time rented increased.
+
 
 <hr>
 
 ### Gender and City-Bikes:
 ![genderPage](./Images/genderPage.png)
+
+This page investigates gender of city bike users.
+  * We see a large rise in unknown gender riders in 2020 (more than female); with male rides out numbering female riders each year.
+  * While male and female riders have a normal curve that is reduced as age increases past 30.
+	   There is a large spike in unknown gender rider duration born in 1969 
+  * Average age of male and female riders stays consistent over the three years observed.
